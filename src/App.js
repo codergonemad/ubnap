@@ -13,12 +13,13 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <div className="App">
       <ScrollToTop />
+      <div className="App">
         <Header />
         <main>
           <Routes>
-            <Route path="/" element={<HomePage />} />
+            <Route path="/ubnap" element={<HomePage />} />
+            {/* <Route path="/" element={<HomePage />} /> */}
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/developer" element={<DeveloperCredits />} />
