@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ubnap/static/css/main.d2cb2737.css",
+    "main.css": "/ubnap/static/css/main.7751c780.css",
     "main.js": "/ubnap/static/js/main.6f2bb896.js",
     "static/js/453.5e560239.chunk.js": "/ubnap/static/js/453.5e560239.chunk.js",
     "static/media/product21.png": "/ubnap/static/media/product21.915adb1b2ccc7f1139fb.png",
@@ -30,12 +30,12 @@
     "static/media/product9.png": "/ubnap/static/media/product9.91a4406eb0ce698fdad8.png",
     "static/media/product11.png": "/ubnap/static/media/product11.8a3326e3e6473b09dad4.png",
     "index.html": "/ubnap/index.html",
-    "main.d2cb2737.css.map": "/ubnap/static/css/main.d2cb2737.css.map",
+    "main.7751c780.css.map": "/ubnap/static/css/main.7751c780.css.map",
     "main.6f2bb896.js.map": "/ubnap/static/js/main.6f2bb896.js.map",
     "453.5e560239.chunk.js.map": "/ubnap/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2cb2737.css",
+    "static/css/main.7751c780.css",
     "static/js/main.6f2bb896.js"
   ]
 }
