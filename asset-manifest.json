@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ubnap/static/css/main.d2cb2737.css",
+    "main.js": "/ubnap/static/js/main.3b226cd0.js",
+    "static/js/453.5e560239.chunk.js": "/ubnap/static/js/453.5e560239.chunk.js",
+    "static/media/product21.png": "/ubnap/static/media/product21.915adb1b2ccc7f1139fb.png",
+    "static/media/product25.png": "/ubnap/static/media/product25.22df73bbbb421e5fa453.png",
+    "static/media/product7.png": "/ubnap/static/media/product7.9381faaafb0bb19519e2.png",
+    "static/media/ubnap.png": "/ubnap/static/media/ubnap.4fffd447edea68905aa4.png",
+    "static/media/product23.png": "/ubnap/static/media/product23.cfd12641dc65a48e49e6.png",
+    "static/media/product18.png": "/ubnap/static/media/product18.bb22a523f7c649c1e611.png",
+    "static/media/product6.png": "/ubnap/static/media/product6.25c216666417ee7a06e4.png",
+    "static/media/product24.png": "/ubnap/static/media/product24.79f612e7b690a76b1264.png",
+    "static/media/product8.png": "/ubnap/static/media/product8.697ff0ecbf29d65ca90b.png",
+    "static/media/product20.png": "/ubnap/static/media/product20.8247bf2776bdd5eb6976.png",
+    "static/media/product5.png": "/ubnap/static/media/product5.cfdbef50420ff747c505.png",
+    "static/media/product13.png": "/ubnap/static/media/product13.9ca3fa899a8ed4af3392.png",
+    "static/media/product22.png": "/ubnap/static/media/product22.30e87c15122e3f3d3fa5.png",
+    "static/media/product12.png": "/ubnap/static/media/product12.761525a4abb31c3d3f44.png",
+    "static/media/product2.png": "/ubnap/static/media/product2.bda6a206ed50eec418b1.png",
+    "static/media/product1.png": "/ubnap/static/media/product1.2f21d109cfee9dfa3edf.png",
+    "static/media/product16.png": "/ubnap/static/media/product16.4f1385a6c9c5beff65a5.png",
+    "static/media/product4.png": "/ubnap/static/media/product4.502cc3fcb85c51be829b.png",
+    "static/media/product15.png": "/ubnap/static/media/product15.fd2e6f314369465d746b.png",
+    "static/media/product14.png": "/ubnap/static/media/product14.5f3eb07ec3dc6aabc54e.png",
+    "static/media/product3.png": "/ubnap/static/media/product3.d43bf48980599949dd03.png",
+    "static/media/product10.png": "/ubnap/static/media/product10.3e44722e8f5dba9ff502.png",
+    "static/media/product17.png": "/ubnap/static/media/product17.4813ae7ffa7ebbfc41a7.png",
+    "static/media/product19.png": "/ubnap/static/media/product19.07fd0848502bc9ae1a06.png",
+    "static/media/product9.png": "/ubnap/static/media/product9.91a4406eb0ce698fdad8.png",
+    "static/media/product11.png": "/ubnap/static/media/product11.8a3326e3e6473b09dad4.png",
+    "index.html": "/ubnap/index.html",
+    "main.d2cb2737.css.map": "/ubnap/static/css/main.d2cb2737.css.map",
+    "main.3b226cd0.js.map": "/ubnap/static/js/main.3b226cd0.js.map",
+    "453.5e560239.chunk.js.map": "/ubnap/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cb2737.css",
+    "static/js/main.3b226cd0.js"
+  ]
+}
