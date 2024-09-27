@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ubnap/static/css/main.7b41a951.css",
-    "main.js": "/ubnap/static/js/main.8d91a6b5.js",
+    "main.css": "/ubnap/static/css/main.14230a80.css",
+    "main.js": "/ubnap/static/js/main.97514f7c.js",
     "static/js/453.5e560239.chunk.js": "/ubnap/static/js/453.5e560239.chunk.js",
     "static/media/product21.png": "/ubnap/static/media/product21.915adb1b2ccc7f1139fb.png",
     "static/media/product25.png": "/ubnap/static/media/product25.22df73bbbb421e5fa453.png",
@@ -31,12 +31,12 @@
     "static/media/product9.png": "/ubnap/static/media/product9.91a4406eb0ce698fdad8.png",
     "static/media/product11.png": "/ubnap/static/media/product11.8a3326e3e6473b09dad4.png",
     "index.html": "/ubnap/index.html",
-    "main.7b41a951.css.map": "/ubnap/static/css/main.7b41a951.css.map",
-    "main.8d91a6b5.js.map": "/ubnap/static/js/main.8d91a6b5.js.map",
+    "main.14230a80.css.map": "/ubnap/static/css/main.14230a80.css.map",
+    "main.97514f7c.js.map": "/ubnap/static/js/main.97514f7c.js.map",
     "453.5e560239.chunk.js.map": "/ubnap/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b41a951.css",
-    "static/js/main.8d91a6b5.js"
+    "static/css/main.14230a80.css",
+    "static/js/main.97514f7c.js"
   ]
 }
