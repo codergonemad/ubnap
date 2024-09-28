@@ -1,4 +1,3 @@
-// components/Footer.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -10,29 +9,29 @@ function Footer() {
           <div className="footer-section">
             <h3>About UBNAP</h3>
             <p>UBNAP Pharmaceuticals Pvt. Ltd.</p>
-            {/* <p>Caring and curing of Mankind...</p> */}
-            <p>Corporate Office: 5-3, Sher Road, Near L&T Gate No. 7, Opp. ETP House, Powai Andheri Ext, Mumbai-400072</p>
-            {/* <p>“Step with care and great tact, and remember that Life's a GREAT BALANCING act.”</p> */}
+            <p>Advancing healthcare through innovation, integrity, and excellence.</p>
           </div>
           <div className="footer-section">
             <h3>Quick Links</h3>
             <ul>
-              <li><Link to="/ubnap">Home</Link></li>
+              <li><Link to="/">Home</Link></li>
               <li><Link to="/products">Products</Link></li>
+              <li><Link to="/third-party-manufacturing">Third Party Manufacturing</Link></li>
+              <li><Link to="/pcd-franchise">PCD Franchise</Link></li>
+              {/* <li><Link to="/about">About Us</Link></li> */}
               <li><Link to="/contact">Contact</Link></li>
-              <li><Link to="/developer">Developer Info</Link></li>
-              {/* <li><a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a></li> */}
             </ul>
           </div>
           <div className="footer-section">
             <h3>Contact Us</h3>
+            <p>5-3, Sher Road, Near L&T Gate No. 7, Opp. ETP House, Powai Andheri Ext, Mumbai-400072</p>
             <p>Email: mktubnap@gmail.com</p>
-            <p>Phone: 9161655656</p>
-            <p>Developer: your.email@example.com</p>
+            <p>Phone: +91 9161655656</p>
+            <p>Developer: CoderGoneMad@gmail.com</p>
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 UBNAP. All rights reserved.</p>
+          <p>&copy; 2024 UBNAP Pharmaceuticals. All rights reserved.</p>
           <p>Designed and developed by <Link to="/developer">CoderGoneMad</Link></p>
         </div>
       </div>

@@ -3,11 +3,6 @@ import { useParams, Link } from 'react-router-dom';
 import ProductCard from '../components/ProductCard';
 import products from '../components/productData';
 
-
-
-
-
-
 function ProductDetailPage() {
   const { id } = useParams();
   const product = products.find(p => p.id === parseInt(id));
