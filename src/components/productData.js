@@ -23,6 +23,9 @@ import product22 from "../images/product22.png";
 import product23 from "../images/product23.png";
 import product24 from "../images/product24.png";
 import product25 from "../images/product25.png";
+import product26 from "../images/product26.jpeg"
+import product27 from "../images/product27.jpeg"
+
 
 const products = [
     // Product 2
@@ -605,7 +608,55 @@ const products = [
         'Lowers the risk of heart disease',
         'Aids in membrane stability and lipid peroxidation prevention'
       ] 
-    }
+    },
+    {
+  id: 26,
+  name: 'Orthmine 2000',
+  image: product26,
+  description: 'Calcium Citrate, Vitamin D3, Calcium Folinate, Pyridoxal 5-phosphate, Cyanocobalamin, Magnesium & Zinc Tablets',
+  price: 16.99,
+  category: 'Bone Health',
+  features: [
+    'Comprehensive Bone and Joint Health Support',
+    'Enhanced Calcium Absorption with Vitamin D3',
+    'Includes Active Form of Vitamin B6 (Pyridoxal 5-phosphate)',
+    'Supports Bone Density and Strength',
+    'Essential for Maintaining Healthy Bones and Muscles',
+    'Contains Cyanocobalamin (Vitamin B12) for Nerve Health',
+    'Magnesium and Zinc for Enhanced Mineral Balance',
+    'Ideal for Osteoporosis Prevention and Management',
+  ],
+  alsoAvailable: [
+    {
+      name: 'Orthmine 1000',
+      description: 'Lower dose formulation for general bone health maintenance.',
+    },
+  ]
+},
+
+{
+  id: 27,
+  name: 'Capralans-60',
+  image: product27,
+  description: 'Dexlansoprazole Delayed Release Capsules',
+  price: 15.99,
+  category: 'Digestive Health',
+  features: [
+    'Advanced Delayed Release Technology for Extended Acid Control',
+    'Effective Treatment for GERD and Erosive Esophagitis',
+    'Provides Long-lasting Heartburn Relief',
+    'Dual Delayed Release for Better Acid Suppression Throughout the Day',
+    'Reduces Frequency of Heartburn Episodes',
+    'Well-Tolerated with Proven Efficacy',
+    'Helps Heal and Prevent Damage to the Esophagus',
+  ],
+  alsoAvailable: [
+    {
+      name: 'Capralans-30',
+      description: 'Dexlansoprazole 30mg Delayed Release Capsules for milder GERD symptoms.',
+    },
+  ]
+}
     
   ];
 
